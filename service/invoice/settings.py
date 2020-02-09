@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-LATEX_INTERPRETER = '/home/hansd/.linuxbrew/bin/pdflatex'
+LATEX_INTERPRETER = 'source /home/hansd/.bashrc && /home/hansd/.linuxbrew/bin/pdflatex'
