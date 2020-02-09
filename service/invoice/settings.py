@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-LATEX_INTERPRETER = '~/.linuxbrew/bin/lualatex'
+LATEX_INTERPRETER = '/home/hansd/.linuxbrew/bin/lualatex'
