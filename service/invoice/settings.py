@@ -25,7 +25,7 @@ SECRET_KEY = 'ettin)9^s%fs+&23a3fcy2qr7a-2%&q$j*=i7t^f1^z29xf9wd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hansd.uber.space', 'www.broko.dev', 'broko.dev']
+ALLOWED_HOSTS = ['localhost', 'hansd.uber.space', 'www.broko.dev', 'broko.dev']
 
 
 # Application definition
